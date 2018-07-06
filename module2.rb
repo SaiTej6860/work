@@ -1,7 +1,7 @@
 require '.\module1.rb'
 module A
 def A.greetings
-puts "happy birthday"
+puts "hello sai Tej"
 end
 end
 Trig. cosfun(x)
